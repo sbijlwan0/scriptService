@@ -14,6 +14,4 @@ window.onload = () => {
     document.body.appendChild(div);
     document.body.appendChild(link);
     document.body.appendChild(script);
-
-
 }
